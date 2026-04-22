@@ -21,7 +21,6 @@ pids/
 coverage/
 
 # uploads (if you store files locally)
-uploads/
 public/uploads/
 
 # OS files

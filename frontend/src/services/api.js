@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const API = axios.create({
-  baseURL: "https://lostandfound-d9vp.onrender.com/api",
+  baseURL: "https://lostandfound-jsqb.onrender.com/api",
 });
 
 // attach token automatically
